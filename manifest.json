@@ -1,0 +1,20 @@
+{
+  "name": "Solitario Clásico",
+  "short_name": "Solitario",
+  "description": "Juego de Solitario Clásico en Español para iPad y iPhone",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08331e",
+  "theme_color": "#0f5132",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'%3E%3Crect width='180' height='180' rx='38' fill='%230f4d2a'/%3E%3Crect x='28' y='20' width='96' height='136' rx='12' fill='%23ffffff' stroke='%23d4af37' stroke-width='4' transform='rotate(-8 76 88)'/%3E%3Crect x='54' y='24' width='96' height='136' rx='12' fill='%23ffffff' stroke='%23e2e8f0' stroke-width='3' transform='rotate(6 102 92)'/%3E%3Ctext x='66' y='56' font-family='system-ui,sans-serif' font-size='26' font-weight='800' fill='%23dc2626' transform='rotate(6 102 92)'%3EA%3C/text%3E%3Cpath d='M102 72 C102 62, 85 55, 85 70 C85 84, 102 94, 102 108 C102 94, 119 84, 119 70 C119 55, 102 62, 102 72 Z' fill='%23dc2626' transform='rotate(6 102 92)'/%3E%3C/svg%3E",
+      "sizes": "180x180 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
